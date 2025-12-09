@@ -554,7 +554,6 @@
       "extensions": {
         "coingeckoId": "pooltogether",
         "acrossInfo": {
-          "acrossInfo": {
             "10": {
               "address": "0x395Ae52bB17aef68C2888d941736A71dC6d4e125"
             },
@@ -573,7 +572,6 @@
             "534352": {
               "address": "0xF9Af83FC41e0cc2af2fba93644D542Df6eA0F2b7"
             }
-          }
         }
       }
     },
@@ -1197,7 +1195,6 @@
           }
         },
         "acrossInfo": {
-          "acrossInfo": {
             "10": {
               "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095"
             },
@@ -1222,7 +1219,6 @@
             "534352": {
               "address": "0x3C1BCa5a656e69edCD0D4E36BEbb3FcDAcA60Cf1"
             }
-          }
         },
         "oftInfo": [
           {
@@ -1902,7 +1898,6 @@
           }
         },
         "acrossInfo": {
-          "acrossInfo": {
             "10": {
               "address": "0xFf733b2A3557a7ed6697007ab5D11B79FdD1b76B"
             },
@@ -1912,7 +1907,6 @@
             "42161": {
               "address": "0x53691596d1BCe8CEa565b84d4915e69e03d9C99d"
             }
-          }
         }
       }
     },
@@ -3474,7 +3468,6 @@
           }
         },
         "acrossInfo": {
-          "acrossInfo": {
             "10": {
               "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1"
             },
@@ -3493,7 +3486,6 @@
             "81457": {
               "address": "0x4300000000000000000000000000000000000003"
             }
-          }
         },
         "ulyssesInfo": {
           "globalAddress": "0xD99F93dfA44F7cDD97481ED0099c24ff46d11401",
@@ -5128,7 +5120,6 @@
           }
         },
         "acrossInfo": {
-          "acrossInfo": {
             "10": {
               "address": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85"
             },
@@ -5169,7 +5160,6 @@
             "7777777": {
               "address": "0xCccCCccc7021b32EBb4e8C08314bD62F7c653EC4"
             }
-          }
         },
         "stargateInfo": {
           "version": 2,
@@ -5773,7 +5763,6 @@
           }
         },
         "acrossInfo": {
-          "acrossInfo": {
             "10": {
               "address": "0xFE8B128bA8C78aabC59d4c64cEE7fF28e9379921"
             },
@@ -5786,7 +5775,6 @@
             "42161": {
               "address": "0x040d1EdC9569d4Bab2D15287Dc5A4F10F56a56B8"
             }
-          }
         }
       }
     },
@@ -6029,7 +6017,6 @@
           }
         },
         "acrossInfo": {
-          "acrossInfo": {
             "10": {
               "address": "0x4200000000000000000000000000000000000006"
             },
@@ -6072,7 +6059,6 @@
             "7777777": {
               "address": "0x4200000000000000000000000000000000000006"
             }
-          }
         },
         "oftInfo": [
           {
@@ -6953,7 +6939,6 @@
           }
         },
         "acrossInfo": {
-          "acrossInfo": {
             "10": {
               "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58"
             },
@@ -6985,7 +6970,6 @@
             "534352": {
               "address": "0xf55BEC9cafDbE8730f096Aa55dad6D22d44099Df"
             }
-          }
         },
         "oftInfo": [
           {
@@ -7881,7 +7865,6 @@
           }
         },
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
             },
@@ -7922,7 +7905,6 @@
             "7777777": {
               "address": "0xCccCCccc7021b32EBb4e8C08314bD62F7c653EC4"
             }
-          }
         },
         "stargateInfo": {
           "version": 2,
@@ -8396,7 +8378,6 @@
       "extensions": {
         "coingeckoId": "pooltogether",
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0x0cEC1A9154Ff802e7934Fc916Ed7Ca50bDE6844e"
             },
@@ -8415,7 +8396,6 @@
             "534352": {
               "address": "0xF9Af83FC41e0cc2af2fba93644D542Df6eA0F2b7"
             }
-          }
         }
       }
     },
@@ -8518,7 +8498,6 @@
           }
         },
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
             },
@@ -8561,7 +8540,6 @@
             "7777777": {
               "address": "0x4200000000000000000000000000000000000006"
             }
-          }
         },
         "ulyssesInfo": {
           "globalAddress": "0x3aa9Be7e0Dac63A03C99FE247e0cF8CB6fd29363",
@@ -8700,14 +8678,12 @@
       "extensions": {
         "coingeckoId": "velora",
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0x4e107a0000DB66f0E9Fd2039288Bf811dD1f9c74"
             },
             "8453": {
               "address": "0x4e107a0000DB66f0E9Fd2039288Bf811dD1f9c74"
             }
-          }
         }
       }
     },
@@ -8965,7 +8941,6 @@
           }
         },
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599"
             },
@@ -8990,7 +8965,6 @@
             "534352": {
               "address": "0x3C1BCa5a656e69edCD0D4E36BEbb3FcDAcA60Cf1"
             }
-          }
         }
       }
     },
@@ -9108,7 +9082,6 @@
           }
         },
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
             },
@@ -9149,7 +9122,6 @@
             "7777777": {
               "address": "0xCccCCccc7021b32EBb4e8C08314bD62F7c653EC4"
             }
-          }
         },
         "stargateInfo": {
           "version": 2,
@@ -9249,11 +9221,9 @@
           }
         },
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F"
             }
-          }
         }
       }
     },
@@ -9421,7 +9391,6 @@
           }
         },
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7"
             },
@@ -9453,7 +9422,6 @@
             "534352": {
               "address": "0xf55BEC9cafDbE8730f096Aa55dad6D22d44099Df"
             }
-          }
         },
         "stargateInfo": {
           "version": 2,
@@ -9826,7 +9794,6 @@
           }
         },
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F"
             },
@@ -9845,7 +9812,6 @@
             "81457": {
               "address": "0x4300000000000000000000000000000000000003"
             }
-          }
         },
         "ulyssesInfo": {
           "globalAddress": "0x5311eF02A3915379Fe80FEBf27Ef5ECB9aCd588D",
@@ -9866,14 +9832,12 @@
       "extensions": {
         "coingeckoId": "worldcoin-wld",
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0x163f8C2467924be0ae7B5347228CABF260318753"
             },
             "480": {
               "address": "0x2cFc85d8E48F8EAB294be644d9E25C3030863003"
             }
-          }
         }
       }
     },
@@ -9990,7 +9954,6 @@
           }
         },
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828"
             },
@@ -10000,7 +9963,6 @@
             "42161": {
               "address": "0xd693Ec944A85eeca4247eC1c3b130DCa9B0C3b22"
             }
-          }
         },
         "noLiquidityOnChain": true
       }
@@ -10020,7 +9982,6 @@
           }
         },
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0xba100000625a3754423978a60c9317c58a424e3D"
             },
@@ -10033,7 +9994,6 @@
             "42161": {
               "address": "0x040d1EdC9569d4Bab2D15287Dc5A4F10F56a56B8"
             }
-          }
         },
         "noLiquidityOnChain": true
       }
@@ -10053,7 +10013,6 @@
           }
         },
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0x44108f0223A3C3028F5Fe7AEC7f9bb2E66beF82F"
             },
@@ -10063,7 +10022,6 @@
             "42161": {
               "address": "0x53691596d1BCe8CEa565b84d4915e69e03d9C99d"
             }
-          }
         },
         "noLiquidityOnChain": true
       }
@@ -11908,7 +11866,6 @@
           }
         },
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
             },
@@ -11951,7 +11908,6 @@
             "7777777": {
               "address": "0x4200000000000000000000000000000000000006"
             }
-          }
         }
       }
     },
@@ -12490,7 +12446,6 @@
           }
         },
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
               "decimals": 6
@@ -12531,7 +12486,6 @@
               "address": "0xf55BEC9cafDbE8730f096Aa55dad6D22d44099Df",
               "decimals": 6
             }
-          }
         },
         "stargateInfo": {
           "version": 2,
@@ -13215,7 +13169,6 @@
           }
         },
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
               "decimals": 6
@@ -13268,7 +13221,6 @@
               "address": "0xCccCCccc7021b32EBb4e8C08314bD62F7c653EC4",
               "decimals": 6
             }
-          }
         },
         "stargateInfo": {
           "version": 2,
@@ -14933,7 +14885,6 @@
           }
         },
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
             },
@@ -14974,7 +14925,6 @@
             "7777777": {
               "address": "0xCccCCccc7021b32EBb4e8C08314bD62F7c653EC4"
             }
-          }
         }
       }
     },
@@ -15055,7 +15005,6 @@
           }
         },
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
             },
@@ -15098,7 +15047,6 @@
             "7777777": {
               "address": "0x4200000000000000000000000000000000000006"
             }
-          }
         }
       }
     },
@@ -15607,7 +15555,6 @@
           }
         },
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599"
             },
@@ -15632,7 +15579,6 @@
             "534352": {
               "address": "0x3C1BCa5a656e69edCD0D4E36BEbb3FcDAcA60Cf1"
             }
-          }
         }
       }
     },
@@ -15666,7 +15612,6 @@
           }
         },
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
             },
@@ -15707,7 +15652,6 @@
             "7777777": {
               "address": "0xCccCCccc7021b32EBb4e8C08314bD62F7c653EC4"
             }
-          }
         },
         "stargateInfo": {
           "version": 2,
@@ -15791,7 +15735,6 @@
           }
         },
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
             },
@@ -15832,7 +15775,6 @@
             "7777777": {
               "address": "0xCccCCccc7021b32EBb4e8C08314bD62F7c653EC4"
             }
-          }
         },
         "stargateInfo": {
           "version": 2,
@@ -16234,7 +16176,6 @@
           }
         },
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
             },
@@ -16277,7 +16218,6 @@
             "7777777": {
               "address": "0x4200000000000000000000000000000000000006"
             }
-          }
         }
       }
     },
@@ -16379,7 +16319,6 @@
           }
         },
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F"
             },
@@ -16398,7 +16337,6 @@
             "81457": {
               "address": "0x4300000000000000000000000000000000000003"
             }
-          }
         }
       }
     },
@@ -16443,7 +16381,6 @@
           }
         },
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0xba100000625a3754423978a60c9317c58a424e3D"
             },
@@ -16456,7 +16393,6 @@
             "42161": {
               "address": "0x040d1EdC9569d4Bab2D15287Dc5A4F10F56a56B8"
             }
-          }
         }
       }
     },
@@ -16760,7 +16696,6 @@
           }
         },
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7"
             },
@@ -16792,7 +16727,6 @@
             "534352": {
               "address": "0xf55BEC9cafDbE8730f096Aa55dad6D22d44099Df"
             }
-          }
         },
         "oftInfo": [
           {
@@ -20463,7 +20397,6 @@
       "extensions": {
         "coingeckoId": "wrapped-bitcoin",
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599"
             },
@@ -20488,7 +20421,6 @@
             "534352": {
               "address": "0x3C1BCa5a656e69edCD0D4E36BEbb3FcDAcA60Cf1"
             }
-          }
         },
         "noLiquidityOnChain": true
       }
@@ -20581,14 +20513,12 @@
       "extensions": {
         "coingeckoId": "worldcoin-wld",
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0x163f8C2467924be0ae7B5347228CABF260318753"
             },
             "10": {
               "address": "0xdC6fF44d5d932Cbd77B52E5612Ba0529DC6226F1"
             }
-          }
         },
         "noLiquidityOnChain": true
       }
@@ -20634,7 +20564,6 @@
       "extensions": {
         "coingeckoId": "ethereum",
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
             },
@@ -20677,7 +20606,6 @@
             "7777777": {
               "address": "0x4200000000000000000000000000000000000006"
             }
-          }
         },
         "noLiquidityOnChain": true
       }
@@ -20816,7 +20744,6 @@
       "extensions": {
         "coingeckoId": "pooltogether",
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0x0cEC1A9154Ff802e7934Fc916Ed7Ca50bDE6844e"
             },
@@ -20835,7 +20762,6 @@
             "534352": {
               "address": "0xF9Af83FC41e0cc2af2fba93644D542Df6eA0F2b7"
             }
-          }
         },
         "noLiquidityOnChain": true
       }
@@ -20850,7 +20776,6 @@
       "extensions": {
         "coingeckoId": "usd-coin",
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
             },
@@ -20891,7 +20816,6 @@
             "7777777": {
               "address": "0xCccCCccc7021b32EBb4e8C08314bD62F7c653EC4"
             }
-          }
         },
         "noLiquidityOnChain": true
       }
@@ -21848,7 +21772,6 @@
       "extensions": {
         "coingeckoId": "usd-coin",
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
             },
@@ -21889,7 +21812,6 @@
             "7777777": {
               "address": "0xCccCCccc7021b32EBb4e8C08314bD62F7c653EC4"
             }
-          }
         }
       }
     },
@@ -21908,7 +21830,6 @@
           }
         },
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
               "decimals": 6
@@ -21949,7 +21870,6 @@
               "address": "0xf55BEC9cafDbE8730f096Aa55dad6D22d44099Df",
               "decimals": 6
             }
-          }
         },
         "oftInfo": [
           {
@@ -24394,7 +24314,6 @@
           }
         },
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
             },
@@ -24437,7 +24356,6 @@
             "7777777": {
               "address": "0x4200000000000000000000000000000000000006"
             }
-          }
         }
       }
     },
@@ -24577,7 +24495,6 @@
           }
         },
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
             },
@@ -24618,7 +24535,6 @@
             "7777777": {
               "address": "0xCccCCccc7021b32EBb4e8C08314bD62F7c653EC4"
             }
-          }
         }
       }
     },
@@ -29031,7 +28947,6 @@
           }
         },
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
             },
@@ -29074,7 +28989,6 @@
             "7777777": {
               "address": "0x4200000000000000000000000000000000000006"
             }
-          }
         },
         "ulyssesInfo": {
           "globalAddress": "0xa293371eA7b1A227b7d3eEE0cD8FF8A65e30622c",
@@ -29277,14 +29191,12 @@
       "extensions": {
         "coingeckoId": "velora",
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0x4e107a0000DB66f0E9Fd2039288Bf811dD1f9c74"
             },
             "10": {
               "address": "0x4e107a0000DB66f0E9Fd2039288Bf811dD1f9c74"
             }
-          }
         }
       }
     },
@@ -29377,7 +29289,6 @@
       "extensions": {
         "coingeckoId": "dai",
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F"
             },
@@ -29396,7 +29307,6 @@
             "81457": {
               "address": "0x4300000000000000000000000000000000000003"
             }
-          }
         }
       }
     },
@@ -30374,7 +30284,6 @@
           }
         },
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
             },
@@ -30415,7 +30324,6 @@
             "7777777": {
               "address": "0xCccCCccc7021b32EBb4e8C08314bD62F7c653EC4"
             }
-          }
         },
         "stargateInfo": {
           "version": 2,
@@ -31715,7 +31623,6 @@
       "extensions": {
         "coingeckoId": "pooltogether",
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0x0cEC1A9154Ff802e7934Fc916Ed7Ca50bDE6844e"
             },
@@ -31734,7 +31641,6 @@
             "534352": {
               "address": "0xF9Af83FC41e0cc2af2fba93644D542Df6eA0F2b7"
             }
-          }
         }
       }
     },
@@ -31815,7 +31721,6 @@
           }
         },
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
             },
@@ -31856,7 +31761,6 @@
             "7777777": {
               "address": "0xCccCCccc7021b32EBb4e8C08314bD62F7c653EC4"
             }
-          }
         }
       }
     },
@@ -32694,7 +32598,6 @@
           }
         },
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7"
             },
@@ -32726,7 +32629,6 @@
             "534352": {
               "address": "0xf55BEC9cafDbE8730f096Aa55dad6D22d44099Df"
             }
-          }
         }
       }
     },
@@ -33358,7 +33260,6 @@
           }
         },
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7"
             },
@@ -33390,7 +33291,6 @@
             "534352": {
               "address": "0xf55BEC9cafDbE8730f096Aa55dad6D22d44099Df"
             }
-          }
         },
         "oftInfo": [
           {
@@ -34233,7 +34133,6 @@
           }
         },
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
             },
@@ -34276,7 +34175,6 @@
             "7777777": {
               "address": "0x4200000000000000000000000000000000000006"
             }
-          }
         }
       }
     },
@@ -34592,7 +34490,6 @@
       "extensions": {
         "coingeckoId": "wrapped-bitcoin",
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599"
             },
@@ -34617,7 +34514,6 @@
             "534352": {
               "address": "0x3C1BCa5a656e69edCD0D4E36BEbb3FcDAcA60Cf1"
             }
-          }
         }
       }
     },
@@ -34631,7 +34527,6 @@
       "extensions": {
         "coingeckoId": "usd-coin-ethereum-bridged",
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
             },
@@ -34672,7 +34567,6 @@
             "7777777": {
               "address": "0xCccCCccc7021b32EBb4e8C08314bD62F7c653EC4"
             }
-          }
         }
       }
     },
@@ -34768,7 +34662,6 @@
       "extensions": {
         "coingeckoId": "tether",
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7"
             },
@@ -34800,7 +34693,6 @@
             "534352": {
               "address": "0xf55BEC9cafDbE8730f096Aa55dad6D22d44099Df"
             }
-          }
         },
         "noLiquidityOnChain": true
       }
@@ -34834,7 +34726,6 @@
           }
         },
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0xba100000625a3754423978a60c9317c58a424e3D"
             },
@@ -34847,7 +34738,6 @@
             "8453": {
               "address": "0x4158734D47Fc9692176B5085E0F52ee0Da5d47F1"
             }
-          }
         }
       }
     },
@@ -35391,7 +35281,6 @@
           }
         },
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599"
             },
@@ -35416,7 +35305,6 @@
             "534352": {
               "address": "0x3C1BCa5a656e69edCD0D4E36BEbb3FcDAcA60Cf1"
             }
-          }
         }
       }
     },
@@ -36746,7 +36634,6 @@
           }
         },
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
             },
@@ -36789,7 +36676,6 @@
             "7777777": {
               "address": "0x4200000000000000000000000000000000000006"
             }
-          }
         }
       }
     },
@@ -37230,7 +37116,6 @@
           }
         },
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
             },
@@ -37271,7 +37156,6 @@
             "7777777": {
               "address": "0xCccCCccc7021b32EBb4e8C08314bD62F7c653EC4"
             }
-          }
         },
         "stargateInfo": {
           "version": 2,
@@ -37561,7 +37445,6 @@
           }
         },
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F"
             },
@@ -37580,7 +37463,6 @@
             "81457": {
               "address": "0x4300000000000000000000000000000000000003"
             }
-          }
         }
       }
     },
@@ -38047,7 +37929,6 @@
           }
         },
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7"
             },
@@ -38079,7 +37960,6 @@
             "534352": {
               "address": "0xf55BEC9cafDbE8730f096Aa55dad6D22d44099Df"
             }
-          }
         },
         "oftInfo": [
           {
@@ -38238,7 +38118,6 @@
           }
         },
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
             },
@@ -38279,7 +38158,6 @@
             "7777777": {
               "address": "0xCccCCccc7021b32EBb4e8C08314bD62F7c653EC4"
             }
-          }
         },
         "stargateInfo": {
           "version": 2,
@@ -40629,7 +40507,6 @@
       "extensions": {
         "coingeckoId": "ethereum",
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
             },
@@ -40672,7 +40549,6 @@
             "7777777": {
               "address": "0x4200000000000000000000000000000000000006"
             }
-          }
         }
       }
     },
@@ -41153,7 +41029,6 @@
       "extensions": {
         "coingeckoId": "usd-coin",
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
             },
@@ -41194,7 +41069,6 @@
             "7777777": {
               "address": "0xCccCCccc7021b32EBb4e8C08314bD62F7c653EC4"
             }
-          }
         }
       }
     },
@@ -41452,7 +41326,6 @@
       "extensions": {
         "coingeckoId": "wrapped-bitcoin",
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599"
             },
@@ -41477,7 +41350,6 @@
             "534352": {
               "address": "0x3C1BCa5a656e69edCD0D4E36BEbb3FcDAcA60Cf1"
             }
-          }
         }
       }
     },
@@ -41615,7 +41487,6 @@
       "extensions": {
         "coingeckoId": "dai",
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F"
             },
@@ -41634,7 +41505,6 @@
             "81457": {
               "address": "0x4300000000000000000000000000000000000003"
             }
-          }
         }
       }
     },
@@ -41929,7 +41799,6 @@
       "extensions": {
         "coingeckoId": "tether",
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7"
             },
@@ -41961,7 +41830,6 @@
             "534352": {
               "address": "0xf55BEC9cafDbE8730f096Aa55dad6D22d44099Df"
             }
-          }
         }
       }
     },
@@ -42114,7 +41982,6 @@
           }
         },
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
             },
@@ -42157,7 +42024,6 @@
             "7777777": {
               "address": "0x4200000000000000000000000000000000000006"
             }
-          }
         }
       }
     },
@@ -44306,7 +44172,6 @@
       "extensions": {
         "coingeckoId": "usdb",
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F"
             },
@@ -44325,7 +44190,6 @@
             "59144": {
               "address": "0x4AF15ec2A0BD43Db75dd04E62FAA3B8EF36b00d5"
             }
-          }
         }
       }
     },
@@ -44344,7 +44208,6 @@
           }
         },
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
             },
@@ -44387,7 +44250,6 @@
             "7777777": {
               "address": "0x4200000000000000000000000000000000000006"
             }
-          }
         }
       }
     },
@@ -45045,7 +44907,6 @@
       "extensions": {
         "coingeckoId": "wrapped-bitcoin",
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599"
             },
@@ -45070,7 +44931,6 @@
             "534352": {
               "address": "0x3C1BCa5a656e69edCD0D4E36BEbb3FcDAcA60Cf1"
             }
-          }
         },
         "noLiquidityOnChain": true
       }
@@ -46680,7 +46540,6 @@
           }
         },
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
             },
@@ -46721,7 +46580,6 @@
             "7777777": {
               "address": "0xCccCCccc7021b32EBb4e8C08314bD62F7c653EC4"
             }
-          }
         },
         "stargateInfo": {
           "version": 2,
@@ -46926,7 +46784,6 @@
       "extensions": {
         "coingeckoId": "wrapped-bitcoin",
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599"
             },
@@ -46951,7 +46808,6 @@
             "81457": {
               "address": "0xF7bc58b8D8f97ADC129cfC4c9f45Ce3C0E1D2692"
             }
-          }
         }
       }
     },
@@ -46965,7 +46821,6 @@
       "extensions": {
         "coingeckoId": "ethereum",
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
             },
@@ -47008,7 +46863,6 @@
             "7777777": {
               "address": "0x4200000000000000000000000000000000000006"
             }
-          }
         }
       }
     },
@@ -47607,7 +47461,6 @@
       "extensions": {
         "coingeckoId": "tether",
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7"
             },
@@ -47639,7 +47492,6 @@
             "59144": {
               "address": "0xA219439258ca9da29E9Cc4cE5596924745e12B93"
             }
-          }
         }
       }
     },
@@ -47653,7 +47505,6 @@
       "extensions": {
         "coingeckoId": "pooltogether",
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0x0cEC1A9154Ff802e7934Fc916Ed7Ca50bDE6844e"
             },
@@ -47672,7 +47523,6 @@
             "42161": {
               "address": "0xCF934E2402A5e072928a39a956964eb8F2B5B79C"
             }
-          }
         },
         "noLiquidityOnChain": true
       }
@@ -47985,7 +47835,6 @@
       "extensions": {
         "coingeckoId": "ethereum",
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
             },
@@ -48028,7 +47877,6 @@
             "534352": {
               "address": "0x5300000000000000000000000000000000000004"
             }
-          }
         },
         "noLiquidityOnChain": true
       }
@@ -48043,7 +47891,6 @@
       "extensions": {
         "coingeckoId": "usd-coin-ethereum-bridged",
         "acrossInfo": {
-          "acrossInfo": {
             "1": {
               "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
             },
@@ -48084,7 +47931,6 @@
             "534352": {
               "address": "0x06eFdBFf2a14a7c8E15944D1F4A48F9F95F663A4"
             }
-          }
         },
         "noLiquidityOnChain": true
       }
