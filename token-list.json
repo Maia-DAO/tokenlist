@@ -9,6 +9,40 @@
   "tokens": [
     {
       "chainId": 1,
+      "address": "0xd83E3d560bA6F05094d9D8B3EB8aaEA571D1864E",
+      "name": "Wrapped HYPE",
+      "symbol": "wHYPE",
+      "decimals": 18,
+      "logoURI": "https://icons-ckg.pages.dev/stargate-light/tokens/whype.svg",
+      "extensions": {
+        "bridgeInfo": {
+          "999": {
+            "address": "0x5555555555555555555555555555555555555555"
+          }
+        },
+        "oftInfo": [
+          {
+            "adapter": "0xd83E3d560bA6F05094d9D8B3EB8aaEA571D1864E",
+            "version": 3,
+            "endpointVersion": 2,
+            "endpointId": 30101,
+            "peers": {
+              "999": {
+                "address": "0x5555555555555555555555555555555555555555",
+                "adapter": "0x2B7E48511ea616101834f09945c11F7d78D9136d"
+              },
+              "534352": {
+                "address": "0xd83E3d560bA6F05094d9D8B3EB8aaEA571D1864E"
+              }
+            },
+            "sharedDecimals": 6
+          }
+        ],
+        "noLiquidityOnChain": true
+      }
+    },
+    {
+      "chainId": 1,
       "address": "0x004E9C3EF86bc1ca1f0bB5C7662861Ee93350568",
       "name": "uniBTC",
       "symbol": "uniBTC",
@@ -20880,6 +20914,43 @@
           }
         ],
         "noLiquidityOnChain": true
+      }
+    },
+    {
+      "chainId": 999,
+      "address": "0x5555555555555555555555555555555555555555",
+      "name": "Wrapped HYPE",
+      "symbol": "WHYPE",
+      "decimals": 18,
+      "logoURI": "https://icons-ckg.pages.dev/stargate-light/tokens/whype.svg",
+      "extensions": {
+        "coingeckoId": "hyperliquid",
+        "coinMarketCapId": 35881,
+        "bridgeInfo": {
+          "1": {
+            "address": "0xd83E3d560bA6F05094d9D8B3EB8aaEA571D1864E"
+          },
+          "534352": {
+            "address": "0xd83E3d560bA6F05094d9D8B3EB8aaEA571D1864E"
+          }
+        },
+        "oftInfo": [
+          {
+            "adapter": "0x2B7E48511ea616101834f09945c11F7d78D9136d",
+            "version": 3,
+            "endpointVersion": 2,
+            "endpointId": 30367,
+            "peers": {
+              "1": {
+                "address": "0xd83E3d560bA6F05094d9D8B3EB8aaEA571D1864E"
+              },
+              "534352": {
+                "address": "0xd83E3d560bA6F05094d9D8B3EB8aaEA571D1864E"
+              }
+            },
+            "sharedDecimals": 6
+          }
+        ]
       }
     },
     {
@@ -46492,6 +46563,39 @@
           }
         ],
         "noLiquidityOnChain": true
+      }
+    },
+    {
+      "chainId": 534352,
+      "address": "0xd83E3d560bA6F05094d9D8B3EB8aaEA571D1864E",
+      "name": "Wrapped HYPE",
+      "symbol": "wHYPE",
+      "decimals": 18,
+      "logoURI": "https://icons-ckg.pages.dev/stargate-light/tokens/whype.svg",
+      "extensions": {
+        "bridgeInfo": {
+          "999": {
+            "address": "0x5555555555555555555555555555555555555555"
+          }
+        },
+        "oftInfo": [
+          {
+            "adapter": "0xd83E3d560bA6F05094d9D8B3EB8aaEA571D1864E",
+            "version": 3,
+            "endpointVersion": 2,
+            "endpointId": 30214,
+            "peers": {
+              "1": {
+                "address": "0xd83E3d560bA6F05094d9D8B3EB8aaEA571D1864E"
+              },
+              "999": {
+                "address": "0x5555555555555555555555555555555555555555",
+                "adapter": "0x2B7E48511ea616101834f09945c11F7d78D9136d"
+              }
+            },
+            "sharedDecimals": 6
+          }
+        ]
       }
     },
     {
