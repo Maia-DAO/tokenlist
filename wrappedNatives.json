@@ -1,6 +1,6 @@
 {
   "name": "Wrapped Natives Token List",
-  "timestamp": "1767884658",
+  "timestamp": "1767901997",
   "version": {
     "major": 1,
     "minor": 0,
@@ -176,7 +176,7 @@
         "stargateInfo": {
           "routes": {
             "10": {
-              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
+              "address": "0x4200000000000000000000000000000000000006"
             },
             "14": {
               "address": "0x1502FA4be69d526124D453619276FacCab275d3D"
@@ -190,12 +190,6 @@
             "100": {
               "address": "0x6A023CCd1ff6F2045C3309768eAd9E68F978f6e1"
             },
-            "130": {
-              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
-            },
-            "169": {
-              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
-            },
             "1088": {
               "address": "0x420000000000000000000000000000000000000A"
             },
@@ -204,15 +198,6 @@
             },
             "1625": {
               "address": "0xf6f832466Cd6C21967E0D954109403f36Bc8ceaA"
-            },
-            "1868": {
-              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
-            },
-            "1890": {
-              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
-            },
-            "1923": {
-              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
             },
             "2345": {
               "address": "0x3a1293Bdb83bBbDd5Ebf4fAc96605aD2021BbC0f"
@@ -226,9 +211,6 @@
             "6900": {
               "address": "0xcdA5b77E2E2268D9E09c874c1b9A4c3F07b37555"
             },
-            "8453": {
-              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
-            },
             "9745": {
               "address": "0x9895D81bB462A195b4922ED7De0e3ACD007c32CB"
             },
@@ -236,22 +218,13 @@
               "address": "0xf4D9235269a96aaDaFc9aDAe454a0618eBE37949"
             },
             "42161": {
-              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
-            },
-            "43111": {
-              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
-            },
-            "59144": {
-              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
+              "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1"
             },
             "80094": {
               "address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590"
             },
             "98866": {
               "address": "0xca59cA09E5602fAe8B629DeE83FfA819741f14be"
-            },
-            "534352": {
-              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
             }
           }
         },
@@ -270,7 +243,7 @@
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/optimism/assets/0x4200000000000000000000000000000000000006/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
       "extensions": {
         "coingeckoId": "ethereum",
         "bridgeInfo": {
@@ -325,7 +298,7 @@
         "stargateInfo": {
           "routes": {
             "1": {
-              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
+              "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
             },
             "14": {
               "address": "0x1502FA4be69d526124D453619276FacCab275d3D"
@@ -339,12 +312,6 @@
             "100": {
               "address": "0x6A023CCd1ff6F2045C3309768eAd9E68F978f6e1"
             },
-            "130": {
-              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
-            },
-            "169": {
-              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
-            },
             "1088": {
               "address": "0x420000000000000000000000000000000000000A"
             },
@@ -353,15 +320,6 @@
             },
             "1625": {
               "address": "0xf6f832466Cd6C21967E0D954109403f36Bc8ceaA"
-            },
-            "1868": {
-              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
-            },
-            "1890": {
-              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
-            },
-            "1923": {
-              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
             },
             "2345": {
               "address": "0x3a1293Bdb83bBbDd5Ebf4fAc96605aD2021BbC0f"
@@ -375,9 +333,6 @@
             "6900": {
               "address": "0xcdA5b77E2E2268D9E09c874c1b9A4c3F07b37555"
             },
-            "8453": {
-              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
-            },
             "9745": {
               "address": "0x9895D81bB462A195b4922ED7De0e3ACD007c32CB"
             },
@@ -385,22 +340,13 @@
               "address": "0xf4D9235269a96aaDaFc9aDAe454a0618eBE37949"
             },
             "42161": {
-              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
-            },
-            "43111": {
-              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
-            },
-            "59144": {
-              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
+              "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1"
             },
             "80094": {
               "address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590"
             },
             "98866": {
               "address": "0xca59cA09E5602fAe8B629DeE83FfA819741f14be"
-            },
-            "534352": {
-              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
             }
           }
         },
@@ -414,12 +360,33 @@
       }
     },
     {
+      "chainId": 14,
+      "address": "0x1D80c49BbBCd1C0911346656B529DF9E5c2F783d",
+      "name": "Wrapped Flare",
+      "symbol": "WFLR",
+      "decimals": 18
+    },
+    {
+      "chainId": 30,
+      "address": "0x542fDA317318eBF1d3DEAf76E0b632741A7e677d",
+      "name": "Wrapped BTC",
+      "symbol": "WRBTC",
+      "decimals": 18
+    },
+    {
+      "chainId": 50,
+      "address": "0x951857744785E80e2De051c32EE7b25f9c458C42",
+      "name": "Wrapped XDC",
+      "symbol": "WXDC",
+      "decimals": 18
+    },
+    {
       "chainId": 56,
       "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
       "name": "Wrapped BNB",
       "symbol": "WBNB",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/22884/thumb/BNB_wh_small.png?1696522182",
       "extensions": {
         "coingeckoId": "binancecoin",
         "coinMarketCapId": 7192,
@@ -451,6 +418,14 @@
           "underlyingAddress": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
         }
       }
+    },
+    {
+      "chainId": 100,
+      "address": "0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d",
+      "name": "Wrapped XDAI",
+      "symbol": "WXDAI",
+      "decimals": 18,
+      "logoURI": "https://tokens.1inch.io/0xe91d153e0b41518a2ce8dd3d7944fa863463a97d.png"
     },
     {
       "chainId": 130,
@@ -550,12 +525,33 @@
       }
     },
     {
+      "chainId": 169,
+      "address": "0x0Dc808adcE2099A9F62AA87D9670745AbA741746",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18
+    },
+    {
+      "chainId": 204,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped BNB",
+      "symbol": "WBNB",
+      "decimals": 18
+    },
+    {
+      "chainId": 239,
+      "address": "0xB63B9f0eb4A6E6f191529D71d4D88cc8900Df2C9",
+      "name": "Wrapped TAC",
+      "symbol": "WTAC",
+      "decimals": 18
+    },
+    {
       "chainId": 252,
       "address": "0xFc00000000000000000000000000000000000002",
       "name": "Wrapped Frax",
       "symbol": "WFRAX",
       "decimals": 18,
-      "logoURI": "https://fraxscan.com/token/images/wfrax_64.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/55432/thumb/wfrax_64.png?1745993624",
       "extensions": {
         "coingeckoId": "wrapped-frax",
         "coinMarketCapId": 37362,
@@ -643,9 +639,6 @@
               "8453": {
                 "address": "0x0CEAC003B0d2479BebeC9f4b2EBAd0a803759bbf"
               },
-              "9745": {
-                "address": "0x64445f0aecC51E94aD52d8AC56b7190e764E561a"
-              },
               "59144": {
                 "address": "0x5217Ab28ECE654Aab2C68efedb6A22739df6C3D5"
               },
@@ -676,6 +669,13 @@
           "underlyingAddress": "0xFc00000000000000000000000000000000000002"
         }
       }
+    },
+    {
+      "chainId": 291,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18
     },
     {
       "chainId": 480,
@@ -734,6 +734,43 @@
       }
     },
     {
+      "chainId": 999,
+      "address": "0x5555555555555555555555555555555555555555",
+      "name": "Wrapped HYPE",
+      "symbol": "WHYPE",
+      "decimals": 18,
+      "logoURI": "https://icons-ckg.pages.dev/stargate-light/tokens/whype.svg",
+      "extensions": {
+        "coingeckoId": "hyperliquid",
+        "coinMarketCapId": 35881,
+        "bridgeInfo": {
+          "1": {
+            "address": "0xd83E3d560bA6F05094d9D8B3EB8aaEA571D1864E"
+          },
+          "534352": {
+            "address": "0xd83E3d560bA6F05094d9D8B3EB8aaEA571D1864E"
+          }
+        },
+        "oftInfo": [
+          {
+            "adapter": "0x2B7E48511ea616101834f09945c11F7d78D9136d",
+            "version": 3,
+            "endpointVersion": 2,
+            "endpointId": 30367,
+            "peers": {
+              "1": {
+                "address": "0xd83E3d560bA6F05094d9D8B3EB8aaEA571D1864E"
+              },
+              "534352": {
+                "address": "0xd83E3d560bA6F05094d9D8B3EB8aaEA571D1864E"
+              }
+            },
+            "sharedDecimals": 6
+          }
+        ]
+      }
+    },
+    {
       "chainId": 1088,
       "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
       "name": "Metis Token",
@@ -756,6 +793,27 @@
           "underlyingAddress": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000"
         }
       }
+    },
+    {
+      "chainId": 1116,
+      "address": "0x40375C92d9FAf44d2f9db9Bd9ba41a3317a2404f",
+      "name": "Wrapped CORE",
+      "symbol": "WCORE",
+      "decimals": 18
+    },
+    {
+      "chainId": 1329,
+      "address": "0xE30feDd158A2e3b13e9badaeABaFc5516e95e8C7",
+      "name": "Wrapped SEI",
+      "symbol": "WSEI",
+      "decimals": 18
+    },
+    {
+      "chainId": 1625,
+      "address": "0xBB859E225ac8Fb6BE1C7e38D87b767e95Fef0EbD",
+      "name": "Wrapped G",
+      "symbol": "wG",
+      "decimals": 18
     },
     {
       "chainId": 1868,
@@ -818,6 +876,13 @@
       }
     },
     {
+      "chainId": 1890,
+      "address": "0x7EbeF2A4b1B09381Ec5B9dF8C5c6f2dBECA59c73",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18
+    },
+    {
       "chainId": 1923,
       "address": "0x4200000000000000000000000000000000000006",
       "name": "Wrapped Ether",
@@ -846,12 +911,26 @@
       }
     },
     {
+      "chainId": 2345,
+      "address": "0xbC10000000000000000000000000000000000000",
+      "name": "Wrapped Goat Bitcoin",
+      "symbol": "WGBTC",
+      "decimals": 18
+    },
+    {
+      "chainId": 2818,
+      "address": "0x5300000000000000000000000000000000000011",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18
+    },
+    {
       "chainId": 3338,
       "address": "0x0000000000000000000000000000000000000809",
       "name": "peaq token",
       "symbol": "PEAQ",
       "decimals": 18,
-      "logoURI": "https://icons-ckg.pages.dev/stargate-light/tokens/peaq.svg",
+      "logoURI": "https://assets.coingecko.com/coins/images/68716/thumb/peaq.png?1756369268",
       "extensions": {
         "coinMarketCapId": 14588,
         "bridgeInfo": {
@@ -882,6 +961,16 @@
             "sharedDecimals": 6
           }
         ]
+      }
+    },
+    {
+      "chainId": 5000,
+      "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+      "name": "Mantle Token",
+      "symbol": "MNT",
+      "decimals": 18,
+      "extensions": {
+        "noLiquidityOnChain": true
       }
     },
     {
@@ -923,7 +1012,7 @@
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/base/assets/0x4200000000000000000000000000000000000006/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
       "extensions": {
         "coingeckoId": "ethereum",
         "bridgeInfo": {
@@ -994,6 +1083,13 @@
       "extensions": {
         "coingeckoId": "plasma"
       }
+    },
+    {
+      "chainId": 33139,
+      "address": "0x48b62137EdfA95a428D35C09E44256a739F6B557",
+      "name": "Wrapped ApeCoin",
+      "symbol": "WAPE",
+      "decimals": 18
     },
     {
       "chainId": 34443,
@@ -1116,10 +1212,10 @@
         "stargateInfo": {
           "routes": {
             "1": {
-              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
+              "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
             },
             "10": {
-              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
+              "address": "0x4200000000000000000000000000000000000006"
             },
             "14": {
               "address": "0x1502FA4be69d526124D453619276FacCab275d3D"
@@ -1133,12 +1229,6 @@
             "100": {
               "address": "0x6A023CCd1ff6F2045C3309768eAd9E68F978f6e1"
             },
-            "130": {
-              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
-            },
-            "169": {
-              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
-            },
             "1088": {
               "address": "0x420000000000000000000000000000000000000A"
             },
@@ -1147,15 +1237,6 @@
             },
             "1625": {
               "address": "0xf6f832466Cd6C21967E0D954109403f36Bc8ceaA"
-            },
-            "1868": {
-              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
-            },
-            "1890": {
-              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
-            },
-            "1923": {
-              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
             },
             "2345": {
               "address": "0x3a1293Bdb83bBbDd5Ebf4fAc96605aD2021BbC0f"
@@ -1169,33 +1250,29 @@
             "6900": {
               "address": "0xcdA5b77E2E2268D9E09c874c1b9A4c3F07b37555"
             },
-            "8453": {
-              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
-            },
             "9745": {
               "address": "0x9895D81bB462A195b4922ED7De0e3ACD007c32CB"
             },
             "33139": {
               "address": "0xf4D9235269a96aaDaFc9aDAe454a0618eBE37949"
             },
-            "43111": {
-              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
-            },
-            "59144": {
-              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
-            },
             "80094": {
               "address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590"
             },
             "98866": {
               "address": "0xca59cA09E5602fAe8B629DeE83FfA819741f14be"
-            },
-            "534352": {
-              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
             }
           }
         }
       }
+    },
+    {
+      "chainId": 42220,
+      "address": "0x471EcE3750Da237f93B8E339c536989b8978a438",
+      "name": "Celo native asset",
+      "symbol": "CELO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_CELO.png"
     },
     {
       "chainId": 43111,
@@ -1228,6 +1305,13 @@
           "underlyingAddress": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7"
         }
       }
+    },
+    {
+      "chainId": 55244,
+      "address": "0x1fB719f10b56d7a85DCD32f27f897375fB21cfdd",
+      "name": "WETH",
+      "symbol": "WETH",
+      "decimals": 18
     },
     {
       "chainId": 57073,
@@ -1290,7 +1374,7 @@
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://tokens-data.1inch.io/images/59144/0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f_0x9cde20523b070db27519b529a4642570eee9297f241417a93a04041204863015.webp",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
       "extensions": {
         "coingeckoId": "ethereum",
         "bridgeInfo": {
@@ -1345,6 +1429,16 @@
       }
     },
     {
+      "chainId": 60808,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "extensions": {
+        "coingeckoId": "ethereum"
+      }
+    },
+    {
       "chainId": 80094,
       "address": "0x6969696969696969696969696969696969696969",
       "name": "Wrapped Bera",
@@ -1367,7 +1461,7 @@
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/blast/assets/0x4300000000000000000000000000000000000004/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
       "extensions": {
         "coingeckoId": "ethereum",
         "bridgeInfo": {
@@ -1422,6 +1516,13 @@
       }
     },
     {
+      "chainId": 98866,
+      "address": "0xEa237441c92CAe6FC17Caaf9a7acB3f953be4bd1",
+      "name": "Wrapped Plume",
+      "symbol": "WPLUME",
+      "decimals": 18
+    },
+    {
       "chainId": 167000,
       "address": "0xA51894664A773981C6C112C43ce576f315d5b1B6",
       "name": "Wrapped Ether",
@@ -1434,6 +1535,16 @@
             "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
           }
         }
+      }
+    },
+    {
+      "chainId": 200901,
+      "address": "0x0E4cF4Affdb72b39Ea91fA726D291781cBd020bF",
+      "name": "BTR Token",
+      "symbol": "BTR",
+      "decimals": 18,
+      "extensions": {
+        "noLiquidityOnChain": true
       }
     },
     {
@@ -1490,6 +1601,13 @@
           }
         }
       }
+    },
+    {
+      "chainId": 747474,
+      "address": "0xEE7D8BCFb72bC1880D0Cf19822eB0A2e6577aB62",
+      "name": "Vault Bridge ETH",
+      "symbol": "vbETH",
+      "decimals": 18
     },
     {
       "chainId": 7777777,
