@@ -1,0 +1,1551 @@
+{
+  "name": "Wrapped Natives Token List",
+  "timestamp": "1767884658",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+      "extensions": {
+        "coingeckoId": "ethereum",
+        "coinMarketCapId": 2396,
+        "bridgeInfo": {
+          "10": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "14": {
+            "address": "0x1502FA4be69d526124D453619276FacCab275d3D"
+          },
+          "30": {
+            "address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590"
+          },
+          "50": {
+            "address": "0xa7348290de5cf01772479c48D50dec791c3fC212"
+          },
+          "56": {
+            "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8"
+          },
+          "100": {
+            "address": "0x6A023CCd1ff6F2045C3309768eAd9E68F978f6e1"
+          },
+          "130": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "137": {
+            "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619"
+          },
+          "143": {
+            "address": "0xEE8c0E9f1BFFb4Eb878d8f15f368A02a35481242"
+          },
+          "239": {
+            "address": "0x61D66bC21fED820938021B06e9b2291f3FB91945"
+          },
+          "1088": {
+            "address": "0x420000000000000000000000000000000000000A"
+          },
+          "1116": {
+            "address": "0xeAB3aC417c4d6dF6b143346a46fEe1B847B50296"
+          },
+          "1329": {
+            "address": "0x160345fC359604fC6e70E3c5fAcbdE5F7A9342d8"
+          },
+          "1625": {
+            "address": "0xf6f832466Cd6C21967E0D954109403f36Bc8ceaA"
+          },
+          "1868": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "2345": {
+            "address": "0x3a1293Bdb83bBbDd5Ebf4fAc96605aD2021BbC0f"
+          },
+          "3338": {
+            "address": "0x6694340fc020c5E6B96567843da2df01b2CE1eb6"
+          },
+          "5000": {
+            "address": "0xdEAddEaDdeadDEadDEADDEAddEADDEAddead1111"
+          },
+          "6900": {
+            "address": "0xcdA5b77E2E2268D9E09c874c1b9A4c3F07b37555"
+          },
+          "8453": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "9745": {
+            "address": "0x9895D81bB462A195b4922ED7De0e3ACD007c32CB"
+          },
+          "33139": {
+            "address": "0xf4D9235269a96aaDaFc9aDAe454a0618eBE37949"
+          },
+          "34443": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "42161": {
+            "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1"
+          },
+          "42220": {
+            "address": "0x122013fd7dF1C6F636a5bb8f03108E876548b455"
+          },
+          "43111": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "43114": {
+            "address": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB"
+          },
+          "59144": {
+            "address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f"
+          },
+          "80094": {
+            "address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590"
+          },
+          "81457": {
+            "address": "0x4300000000000000000000000000000000000004"
+          },
+          "98866": {
+            "address": "0xca59cA09E5602fAe8B629DeE83FfA819741f14be"
+          },
+          "167000": {
+            "address": "0xA51894664A773981C6C112C43ce576f315d5b1B6"
+          }
+        },
+        "acrossInfo": {
+          "10": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "56": {
+            "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8"
+          },
+          "130": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "137": {
+            "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619"
+          },
+          "480": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "1868": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "8453": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "34443": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "42161": {
+            "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1"
+          },
+          "57073": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "59144": {
+            "address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f"
+          },
+          "81457": {
+            "address": "0x4300000000000000000000000000000000000004"
+          },
+          "534352": {
+            "address": "0x5300000000000000000000000000000000000004"
+          },
+          "7777777": {
+            "address": "0x4200000000000000000000000000000000000006"
+          }
+        },
+        "oftInfo": [
+          {
+            "adapter": "0xf211D3B40A74632162F45F4d42A461b663694a9D",
+            "version": 3,
+            "endpointVersion": 2,
+            "endpointId": 30101,
+            "peers": {
+              "239": {
+                "address": "0x61D66bC21fED820938021B06e9b2291f3FB91945"
+              }
+            },
+            "sharedDecimals": 6
+          }
+        ],
+        "stargateInfo": {
+          "routes": {
+            "10": {
+              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
+            },
+            "14": {
+              "address": "0x1502FA4be69d526124D453619276FacCab275d3D"
+            },
+            "30": {
+              "address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590"
+            },
+            "50": {
+              "address": "0xa7348290de5cf01772479c48D50dec791c3fC212"
+            },
+            "100": {
+              "address": "0x6A023CCd1ff6F2045C3309768eAd9E68F978f6e1"
+            },
+            "130": {
+              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
+            },
+            "169": {
+              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
+            },
+            "1088": {
+              "address": "0x420000000000000000000000000000000000000A"
+            },
+            "1329": {
+              "address": "0x160345fC359604fC6e70E3c5fAcbdE5F7A9342d8"
+            },
+            "1625": {
+              "address": "0xf6f832466Cd6C21967E0D954109403f36Bc8ceaA"
+            },
+            "1868": {
+              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
+            },
+            "1890": {
+              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
+            },
+            "1923": {
+              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
+            },
+            "2345": {
+              "address": "0x3a1293Bdb83bBbDd5Ebf4fAc96605aD2021BbC0f"
+            },
+            "3338": {
+              "address": "0x6694340fc020c5E6B96567843da2df01b2CE1eb6"
+            },
+            "5000": {
+              "address": "0xdEAddEaDdeadDEadDEADDEAddEADDEAddead1111"
+            },
+            "6900": {
+              "address": "0xcdA5b77E2E2268D9E09c874c1b9A4c3F07b37555"
+            },
+            "8453": {
+              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
+            },
+            "9745": {
+              "address": "0x9895D81bB462A195b4922ED7De0e3ACD007c32CB"
+            },
+            "33139": {
+              "address": "0xf4D9235269a96aaDaFc9aDAe454a0618eBE37949"
+            },
+            "42161": {
+              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
+            },
+            "43111": {
+              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
+            },
+            "59144": {
+              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
+            },
+            "80094": {
+              "address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590"
+            },
+            "98866": {
+              "address": "0xca59cA09E5602fAe8B629DeE83FfA819741f14be"
+            },
+            "534352": {
+              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
+            }
+          }
+        },
+        "ulyssesInfo": {
+          "globalAddress": "0x70Ed9e9fBc9f6a8A159bcE0485a1D0759f5e8c72",
+          "localAddress": {
+            "1": "0xe2e5DF2786A89c06C36e66015F3F6fA235D5fb76"
+          },
+          "underlyingAddress": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+        }
+      }
+    },
+    {
+      "chainId": 10,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/optimism/assets/0x4200000000000000000000000000000000000006/logo.png",
+      "extensions": {
+        "coingeckoId": "ethereum",
+        "bridgeInfo": {
+          "1": {
+            "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+          }
+        },
+        "acrossInfo": {
+          "1": {
+            "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+          },
+          "56": {
+            "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8"
+          },
+          "130": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "137": {
+            "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619"
+          },
+          "480": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "1868": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "8453": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "34443": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "42161": {
+            "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1"
+          },
+          "57073": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "59144": {
+            "address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f"
+          },
+          "81457": {
+            "address": "0x4300000000000000000000000000000000000004"
+          },
+          "534352": {
+            "address": "0x5300000000000000000000000000000000000004"
+          },
+          "7777777": {
+            "address": "0x4200000000000000000000000000000000000006"
+          }
+        },
+        "stargateInfo": {
+          "routes": {
+            "1": {
+              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
+            },
+            "14": {
+              "address": "0x1502FA4be69d526124D453619276FacCab275d3D"
+            },
+            "30": {
+              "address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590"
+            },
+            "50": {
+              "address": "0xa7348290de5cf01772479c48D50dec791c3fC212"
+            },
+            "100": {
+              "address": "0x6A023CCd1ff6F2045C3309768eAd9E68F978f6e1"
+            },
+            "130": {
+              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
+            },
+            "169": {
+              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
+            },
+            "1088": {
+              "address": "0x420000000000000000000000000000000000000A"
+            },
+            "1329": {
+              "address": "0x160345fC359604fC6e70E3c5fAcbdE5F7A9342d8"
+            },
+            "1625": {
+              "address": "0xf6f832466Cd6C21967E0D954109403f36Bc8ceaA"
+            },
+            "1868": {
+              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
+            },
+            "1890": {
+              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
+            },
+            "1923": {
+              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
+            },
+            "2345": {
+              "address": "0x3a1293Bdb83bBbDd5Ebf4fAc96605aD2021BbC0f"
+            },
+            "3338": {
+              "address": "0x6694340fc020c5E6B96567843da2df01b2CE1eb6"
+            },
+            "5000": {
+              "address": "0xdEAddEaDdeadDEadDEADDEAddEADDEAddead1111"
+            },
+            "6900": {
+              "address": "0xcdA5b77E2E2268D9E09c874c1b9A4c3F07b37555"
+            },
+            "8453": {
+              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
+            },
+            "9745": {
+              "address": "0x9895D81bB462A195b4922ED7De0e3ACD007c32CB"
+            },
+            "33139": {
+              "address": "0xf4D9235269a96aaDaFc9aDAe454a0618eBE37949"
+            },
+            "42161": {
+              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
+            },
+            "43111": {
+              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
+            },
+            "59144": {
+              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
+            },
+            "80094": {
+              "address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590"
+            },
+            "98866": {
+              "address": "0xca59cA09E5602fAe8B629DeE83FfA819741f14be"
+            },
+            "534352": {
+              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
+            }
+          }
+        },
+        "ulyssesInfo": {
+          "globalAddress": "0x3aa9Be7e0Dac63A03C99FE247e0cF8CB6fd29363",
+          "localAddress": {
+            "10": "0x0F1651C8f1e22097b80A61d1CcffC54A51aaC725"
+          },
+          "underlyingAddress": "0x4200000000000000000000000000000000000006"
+        }
+      }
+    },
+    {
+      "chainId": 56,
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "name": "Wrapped BNB",
+      "symbol": "WBNB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+      "extensions": {
+        "coingeckoId": "binancecoin",
+        "coinMarketCapId": 7192,
+        "bridgeInfo": {
+          "1": {
+            "address": "0x418D75f65a02b3D53B2418FB8E1fe493759c7605"
+          },
+          "137": {
+            "address": "0xeCDCB5B88F8e3C15f95c720C51c71c9E2080525d"
+          },
+          "1116": {
+            "address": "0xdFBc618d3c48e553Cb197F42482A0795bef7fe28"
+          },
+          "42161": {
+            "address": "0xa9004A5421372E1D83fB1f85b0fc986c912f91f3"
+          },
+          "43114": {
+            "address": "0xa9004A5421372E1D83fB1f85b0fc986c912f91f3"
+          },
+          "59144": {
+            "address": "0xf5C6825015280CdfD0b56903F9F8B5A2233476F5"
+          }
+        },
+        "ulyssesInfo": {
+          "globalAddress": "0x6C4077a788043D877E4b76dd79dfc2DeF1804E04",
+          "localAddress": {
+            "56": "0x7eb5C81d21BCFa970fb280e5A8FB08652448Ed2b"
+          },
+          "underlyingAddress": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+        }
+      }
+    },
+    {
+      "chainId": 130,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+      "extensions": {
+        "coingeckoId": "ethereum",
+        "bridgeInfo": {
+          "1": {
+            "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+          }
+        },
+        "acrossInfo": {
+          "1": {
+            "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+          },
+          "10": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "56": {
+            "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8"
+          },
+          "137": {
+            "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619"
+          },
+          "480": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "1868": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "8453": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "34443": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "42161": {
+            "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1"
+          },
+          "57073": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "59144": {
+            "address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f"
+          },
+          "81457": {
+            "address": "0x4300000000000000000000000000000000000004"
+          },
+          "534352": {
+            "address": "0x5300000000000000000000000000000000000004"
+          },
+          "7777777": {
+            "address": "0x4200000000000000000000000000000000000006"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+      "name": "Wrapped Polygon Ecosystem Token",
+      "symbol": "WPOL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/4713/thumb/matic-token-icon.png?1624446912",
+      "extensions": {
+        "coingeckoId": "wmatic",
+        "coinMarketCapId": 8925
+      }
+    },
+    {
+      "chainId": 143,
+      "address": "0x3bd359C1119dA7Da1D913D1C4D2B7c461115433A",
+      "name": "Wrapped MON",
+      "symbol": "WMON",
+      "decimals": 18,
+      "logoURI": "https://imagedelivery.net/cBNDGgkrsEA-b_ixIp9SkQ/I_t8rg_V_400x400.jpg/public"
+    },
+    {
+      "chainId": 146,
+      "address": "0x039e2fB66102314Ce7b64Ce5Ce3E5183bc94aD38",
+      "name": "Wrapped Sonic",
+      "symbol": "wS",
+      "decimals": 18,
+      "logoURI": "https://sonicscan.org/token/images/wrappedsonic_32.svg",
+      "extensions": {
+        "ulyssesInfo": {
+          "globalAddress": "0x522abFbAdd8371385E30AB0Ea5CEc62D6f1b21BB",
+          "localAddress": {
+            "146": "0x5b05C18c3D30b23763891D4Bc27311999b2b8194"
+          },
+          "underlyingAddress": "0x039e2fB66102314Ce7b64Ce5Ce3E5183bc94aD38"
+        }
+      }
+    },
+    {
+      "chainId": 252,
+      "address": "0xFc00000000000000000000000000000000000002",
+      "name": "Wrapped Frax",
+      "symbol": "WFRAX",
+      "decimals": 18,
+      "logoURI": "https://fraxscan.com/token/images/wfrax_64.png",
+      "extensions": {
+        "coingeckoId": "wrapped-frax",
+        "coinMarketCapId": 37362,
+        "bridgeInfo": {
+          "1": {
+            "address": "0x04ACaF8D2865c0714F79da09645C13FD2888977f"
+          },
+          "10": {
+            "address": "0x64445f0aecC51E94aD52d8AC56b7190e764E561a"
+          },
+          "56": {
+            "address": "0x64445f0aecC51E94aD52d8AC56b7190e764E561a"
+          },
+          "130": {
+            "address": "0x64445f0aecC51E94aD52d8AC56b7190e764E561a"
+          },
+          "137": {
+            "address": "0x64445f0aecC51E94aD52d8AC56b7190e764E561a"
+          },
+          "146": {
+            "address": "0x64445f0aecC51E94aD52d8AC56b7190e764E561a"
+          },
+          "480": {
+            "address": "0x64445f0aecC51E94aD52d8AC56b7190e764E561a"
+          },
+          "1329": {
+            "address": "0x64445f0aecC51E94aD52d8AC56b7190e764E561a"
+          },
+          "8453": {
+            "address": "0x0CEAC003B0d2479BebeC9f4b2EBAd0a803759bbf"
+          },
+          "34443": {
+            "address": "0x64445f0aecC51E94aD52d8AC56b7190e764E561a"
+          },
+          "42161": {
+            "address": "0x64445f0aecC51E94aD52d8AC56b7190e764E561a"
+          },
+          "43114": {
+            "address": "0x64445f0aecC51E94aD52d8AC56b7190e764E561a"
+          },
+          "57073": {
+            "address": "0x64445f0aecC51E94aD52d8AC56b7190e764E561a"
+          },
+          "59144": {
+            "address": "0x5217Ab28ECE654Aab2C68efedb6A22739df6C3D5"
+          },
+          "80094": {
+            "address": "0x64445f0aecC51E94aD52d8AC56b7190e764E561a"
+          },
+          "81457": {
+            "address": "0x64445f0aecC51E94aD52d8AC56b7190e764E561a"
+          },
+          "98866": {
+            "address": "0x64445f0aecC51E94aD52d8AC56b7190e764E561a"
+          },
+          "534352": {
+            "address": "0x879BA0EFE1AB0119FefA745A21585Fa205B07907"
+          },
+          "747474": {
+            "address": "0x64445f0aecC51E94aD52d8AC56b7190e764E561a"
+          }
+        },
+        "oftInfo": [
+          {
+            "adapter": "0xd86fBBd0c8715d2C1f40e451e5C3514e65E7576A",
+            "version": 3,
+            "endpointVersion": 2,
+            "endpointId": 30255,
+            "peers": {
+              "1": {
+                "address": "0x04ACaF8D2865c0714F79da09645C13FD2888977f"
+              },
+              "130": {
+                "address": "0x64445f0aecC51E94aD52d8AC56b7190e764E561a"
+              },
+              "143": {
+                "address": "0x29aCC7c504665A5EA95344796f784095f0cfcC58"
+              },
+              "480": {
+                "address": "0x64445f0aecC51E94aD52d8AC56b7190e764E561a"
+              },
+              "999": {
+                "address": "0x64445f0aecC51E94aD52d8AC56b7190e764E561a"
+              },
+              "8453": {
+                "address": "0x0CEAC003B0d2479BebeC9f4b2EBAd0a803759bbf"
+              },
+              "9745": {
+                "address": "0x64445f0aecC51E94aD52d8AC56b7190e764E561a"
+              },
+              "59144": {
+                "address": "0x5217Ab28ECE654Aab2C68efedb6A22739df6C3D5"
+              },
+              "80094": {
+                "address": "0x64445f0aecC51E94aD52d8AC56b7190e764E561a"
+              },
+              "81457": {
+                "address": "0x64445f0aecC51E94aD52d8AC56b7190e764E561a"
+              },
+              "98866": {
+                "address": "0x64445f0aecC51E94aD52d8AC56b7190e764E561a"
+              },
+              "534352": {
+                "address": "0x879BA0EFE1AB0119FefA745A21585Fa205B07907"
+              },
+              "747474": {
+                "address": "0x64445f0aecC51E94aD52d8AC56b7190e764E561a"
+              }
+            },
+            "sharedDecimals": 6
+          }
+        ],
+        "ulyssesInfo": {
+          "globalAddress": "0x38B980B513934A678F05BC4115F64A568AfD90f7",
+          "localAddress": {
+            "252": "0xdc490c00F81Deba525Bb5460660F799E72d9Bca7"
+          },
+          "underlyingAddress": "0xFc00000000000000000000000000000000000002"
+        }
+      }
+    },
+    {
+      "chainId": 480,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+      "extensions": {
+        "coingeckoId": "ethereum",
+        "acrossInfo": {
+          "1": {
+            "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+          },
+          "10": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "56": {
+            "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8"
+          },
+          "130": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "137": {
+            "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619"
+          },
+          "1868": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "8453": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "34443": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "42161": {
+            "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1"
+          },
+          "57073": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "59144": {
+            "address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f"
+          },
+          "81457": {
+            "address": "0x4300000000000000000000000000000000000004"
+          },
+          "534352": {
+            "address": "0x5300000000000000000000000000000000000004"
+          },
+          "7777777": {
+            "address": "0x4200000000000000000000000000000000000006"
+          }
+        },
+        "noLiquidityOnChain": true
+      }
+    },
+    {
+      "chainId": 1088,
+      "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+      "name": "Metis Token",
+      "symbol": "Metis",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/MaiaDAO/token-list/5adb27397a46b8ae3b79ab6f1efe878aa5ba085d/0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000.svg",
+      "extensions": {
+        "stargateInfo": {
+          "routes": {
+            "1": {
+              "address": "0x9E32b13ce7f2E80A01932B42553652E053D6ed8e"
+            }
+          }
+        },
+        "ulyssesInfo": {
+          "globalAddress": "0x3878eA86aaeFE289134e9D433f932BCc9589Cff5",
+          "localAddress": {
+            "1088": "0x1ce28C4f77991b604868bA48f9154408313C65b6"
+          },
+          "underlyingAddress": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000"
+        }
+      }
+    },
+    {
+      "chainId": 1868,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+      "extensions": {
+        "coingeckoId": "ethereum",
+        "bridgeInfo": {
+          "1": {
+            "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+          }
+        },
+        "acrossInfo": {
+          "1": {
+            "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+          },
+          "10": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "56": {
+            "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8"
+          },
+          "130": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "137": {
+            "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619"
+          },
+          "480": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "8453": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "34443": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "42161": {
+            "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1"
+          },
+          "57073": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "59144": {
+            "address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f"
+          },
+          "81457": {
+            "address": "0x4300000000000000000000000000000000000004"
+          },
+          "534352": {
+            "address": "0x5300000000000000000000000000000000000004"
+          },
+          "7777777": {
+            "address": "0x4200000000000000000000000000000000000006"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 1923,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/c6108b1a2708c01a8c637b80e0f69e77085d4174/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+      "extensions": {
+        "ulyssesInfo": {
+          "globalAddress": "0xD3A4608982Be16c20561cEAe37146C660C44700c",
+          "localAddress": {
+            "1923": "0xCc74BDF637fAAA6717270E2491b274B158bC5ea9"
+          },
+          "underlyingAddress": "0x4200000000000000000000000000000000000006"
+        }
+      }
+    },
+    {
+      "chainId": 1996,
+      "address": "0x754cDAd6f5821077d6915004Be2cE05f93d176f8",
+      "name": "Wrapped DMT",
+      "symbol": "WDMT",
+      "decimals": 18,
+      "logoURI": "https://icons-ckg.pages.dev/stargate-light/tokens/wdmt.svg",
+      "extensions": {
+        "coinMarketCapId": 25653
+      }
+    },
+    {
+      "chainId": 3338,
+      "address": "0x0000000000000000000000000000000000000809",
+      "name": "peaq token",
+      "symbol": "PEAQ",
+      "decimals": 18,
+      "logoURI": "https://icons-ckg.pages.dev/stargate-light/tokens/peaq.svg",
+      "extensions": {
+        "coinMarketCapId": 14588,
+        "bridgeInfo": {
+          "56": {
+            "address": "0x8b9Ee39195eA99d6ddD68030F44131116bc218F6"
+          },
+          "8453": {
+            "address": "0x9B56B112BbD6343a8961a093315A9A60b8cB1F36"
+          }
+        },
+        "oftInfo": [
+          {
+            "adapter": "0xe4103e80c967f58591a1d7cA443ed7E392FeD862",
+            "version": 3,
+            "endpointVersion": 2,
+            "endpointId": 30302,
+            "peers": {
+              "1": {
+                "address": "0x1EeF208926667594E5136e89D0e9DD6907959197"
+              },
+              "56": {
+                "address": "0x8b9Ee39195eA99d6ddD68030F44131116bc218F6"
+              },
+              "8453": {
+                "address": "0x9B56B112BbD6343a8961a093315A9A60b8cB1F36"
+              }
+            },
+            "sharedDecimals": 6
+          }
+        ]
+      }
+    },
+    {
+      "chainId": 6900,
+      "address": "0x0CaCF669f8446BeCA826913a3c6B96aCD4b02a97",
+      "name": "Wrapped Nibiru",
+      "symbol": "WNIBI",
+      "decimals": 18,
+      "logoURI": "https://icons-ckg.pages.dev/stargate-light/tokens/wnibi.svg",
+      "extensions": {
+        "oftInfo": [
+          {
+            "adapter": "0x4DF4eFa0a3707b6Cc964F62042E8a303A0376F54",
+            "version": 3,
+            "endpointVersion": 2,
+            "endpointId": 30369,
+            "peers": {
+              "1": {
+                "address": "0x8A47e412a865198b9d5f10fF2e54f788f1696195"
+              },
+              "137": {
+                "address": "0x02f6FD682027a148d73777034CB85D14f231A678"
+              },
+              "8453": {
+                "address": "0x3aDE6652F203d919697f8577F75Eebb989A5C586"
+              },
+              "42161": {
+                "address": "0x80cf4350c702D466ef65305A73726349e98d7f57"
+              }
+            },
+            "sharedDecimals": 6
+          }
+        ]
+      }
+    },
+    {
+      "chainId": 8453,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/base/assets/0x4200000000000000000000000000000000000006/logo.png",
+      "extensions": {
+        "coingeckoId": "ethereum",
+        "bridgeInfo": {
+          "1": {
+            "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+          }
+        },
+        "acrossInfo": {
+          "1": {
+            "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+          },
+          "10": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "56": {
+            "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8"
+          },
+          "130": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "137": {
+            "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619"
+          },
+          "480": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "1868": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "34443": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "42161": {
+            "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1"
+          },
+          "57073": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "59144": {
+            "address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f"
+          },
+          "81457": {
+            "address": "0x4300000000000000000000000000000000000004"
+          },
+          "534352": {
+            "address": "0x5300000000000000000000000000000000000004"
+          },
+          "7777777": {
+            "address": "0x4200000000000000000000000000000000000006"
+          }
+        },
+        "ulyssesInfo": {
+          "globalAddress": "0xa293371eA7b1A227b7d3eEE0cD8FF8A65e30622c",
+          "localAddress": {
+            "8453": "0x10A45947C278D6F49049D120F6b8Cf527D023f53"
+          },
+          "underlyingAddress": "0x4200000000000000000000000000000000000006"
+        }
+      }
+    },
+    {
+      "chainId": 9745,
+      "address": "0x6100E367285b01F48D07953803A2d8dCA5D19873",
+      "name": "Wrapped XPL",
+      "symbol": "WXPL",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/PlasmaLaboratories/plasma-tokenlist/main/logos/9745/XPL.svg",
+      "extensions": {
+        "coingeckoId": "plasma"
+      }
+    },
+    {
+      "chainId": 34443,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+      "extensions": {
+        "coingeckoId": "ethereum",
+        "bridgeInfo": {
+          "1": {
+            "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+          }
+        },
+        "acrossInfo": {
+          "1": {
+            "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+          },
+          "10": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "56": {
+            "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8"
+          },
+          "130": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "137": {
+            "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619"
+          },
+          "480": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "1868": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "8453": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "42161": {
+            "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1"
+          },
+          "57073": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "59144": {
+            "address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f"
+          },
+          "81457": {
+            "address": "0x4300000000000000000000000000000000000004"
+          },
+          "534352": {
+            "address": "0x5300000000000000000000000000000000000004"
+          },
+          "7777777": {
+            "address": "0x4200000000000000000000000000000000000006"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+      "extensions": {
+        "coingeckoId": "ethereum",
+        "bridgeInfo": {
+          "1": {
+            "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+          }
+        },
+        "acrossInfo": {
+          "1": {
+            "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+          },
+          "10": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "56": {
+            "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8"
+          },
+          "130": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "137": {
+            "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619"
+          },
+          "480": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "1868": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "8453": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "34443": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "57073": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "59144": {
+            "address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f"
+          },
+          "81457": {
+            "address": "0x4300000000000000000000000000000000000004"
+          },
+          "534352": {
+            "address": "0x5300000000000000000000000000000000000004"
+          },
+          "7777777": {
+            "address": "0x4200000000000000000000000000000000000006"
+          }
+        },
+        "stargateInfo": {
+          "routes": {
+            "1": {
+              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
+            },
+            "10": {
+              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
+            },
+            "14": {
+              "address": "0x1502FA4be69d526124D453619276FacCab275d3D"
+            },
+            "30": {
+              "address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590"
+            },
+            "50": {
+              "address": "0xa7348290de5cf01772479c48D50dec791c3fC212"
+            },
+            "100": {
+              "address": "0x6A023CCd1ff6F2045C3309768eAd9E68F978f6e1"
+            },
+            "130": {
+              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
+            },
+            "169": {
+              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
+            },
+            "1088": {
+              "address": "0x420000000000000000000000000000000000000A"
+            },
+            "1329": {
+              "address": "0x160345fC359604fC6e70E3c5fAcbdE5F7A9342d8"
+            },
+            "1625": {
+              "address": "0xf6f832466Cd6C21967E0D954109403f36Bc8ceaA"
+            },
+            "1868": {
+              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
+            },
+            "1890": {
+              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
+            },
+            "1923": {
+              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
+            },
+            "2345": {
+              "address": "0x3a1293Bdb83bBbDd5Ebf4fAc96605aD2021BbC0f"
+            },
+            "3338": {
+              "address": "0x6694340fc020c5E6B96567843da2df01b2CE1eb6"
+            },
+            "5000": {
+              "address": "0xdEAddEaDdeadDEadDEADDEAddEADDEAddead1111"
+            },
+            "6900": {
+              "address": "0xcdA5b77E2E2268D9E09c874c1b9A4c3F07b37555"
+            },
+            "8453": {
+              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
+            },
+            "9745": {
+              "address": "0x9895D81bB462A195b4922ED7De0e3ACD007c32CB"
+            },
+            "33139": {
+              "address": "0xf4D9235269a96aaDaFc9aDAe454a0618eBE37949"
+            },
+            "43111": {
+              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
+            },
+            "59144": {
+              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
+            },
+            "80094": {
+              "address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590"
+            },
+            "98866": {
+              "address": "0xca59cA09E5602fAe8B629DeE83FfA819741f14be"
+            },
+            "534352": {
+              "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
+            }
+          }
+        }
+      }
+    },
+    {
+      "chainId": 43111,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 43114,
+      "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+      "name": "Wrapped AVAX",
+      "symbol": "WAVAX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/avalanchec/assets/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
+      "extensions": {
+        "ulyssesInfo": {
+          "globalAddress": "0xB301c08E3098d626c3D307701E605c5d1477A7E2",
+          "localAddress": {
+            "43114": "0xfD92eE19f206f313F8D267026B337a62F77b1E4c"
+          },
+          "underlyingAddress": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7"
+        }
+      }
+    },
+    {
+      "chainId": 57073,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+      "extensions": {
+        "coingeckoId": "ethereum",
+        "acrossInfo": {
+          "1": {
+            "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+          },
+          "10": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "56": {
+            "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8"
+          },
+          "130": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "137": {
+            "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619"
+          },
+          "480": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "1868": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "8453": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "34443": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "42161": {
+            "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1"
+          },
+          "59144": {
+            "address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f"
+          },
+          "81457": {
+            "address": "0x4300000000000000000000000000000000000004"
+          },
+          "534352": {
+            "address": "0x5300000000000000000000000000000000000004"
+          },
+          "7777777": {
+            "address": "0x4200000000000000000000000000000000000006"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 59144,
+      "address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://tokens-data.1inch.io/images/59144/0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f_0x9cde20523b070db27519b529a4642570eee9297f241417a93a04041204863015.webp",
+      "extensions": {
+        "coingeckoId": "ethereum",
+        "bridgeInfo": {
+          "1": {
+            "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+          }
+        },
+        "acrossInfo": {
+          "1": {
+            "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+          },
+          "10": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "56": {
+            "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8"
+          },
+          "130": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "137": {
+            "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619"
+          },
+          "480": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "1868": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "8453": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "34443": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "42161": {
+            "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1"
+          },
+          "57073": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "81457": {
+            "address": "0x4300000000000000000000000000000000000004"
+          },
+          "534352": {
+            "address": "0x5300000000000000000000000000000000000004"
+          },
+          "7777777": {
+            "address": "0x4200000000000000000000000000000000000006"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 80094,
+      "address": "0x6969696969696969696969696969696969696969",
+      "name": "Wrapped Bera",
+      "symbol": "WBERA",
+      "decimals": 18,
+      "logoURI": "https://berascan.com/token/images/wrappedbera_ofc_64.png",
+      "extensions": {
+        "ulyssesInfo": {
+          "globalAddress": "0x42e236b2433A04D6687aF507aD23be3DbBf57945",
+          "localAddress": {
+            "80094": "0x6d4c20f6E27F5399888E25260b7a0e77e8f4d80d"
+          },
+          "underlyingAddress": "0x6969696969696969696969696969696969696969"
+        }
+      }
+    },
+    {
+      "chainId": 81457,
+      "address": "0x4300000000000000000000000000000000000004",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/blast/assets/0x4300000000000000000000000000000000000004/logo.png",
+      "extensions": {
+        "coingeckoId": "ethereum",
+        "bridgeInfo": {
+          "1": {
+            "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+          }
+        },
+        "acrossInfo": {
+          "1": {
+            "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+          },
+          "10": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "56": {
+            "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8"
+          },
+          "130": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "137": {
+            "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619"
+          },
+          "480": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "1868": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "8453": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "34443": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "42161": {
+            "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1"
+          },
+          "57073": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "59144": {
+            "address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f"
+          },
+          "534352": {
+            "address": "0x5300000000000000000000000000000000000004"
+          },
+          "7777777": {
+            "address": "0x4200000000000000000000000000000000000006"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 167000,
+      "address": "0xA51894664A773981C6C112C43ce576f315d5b1B6",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 534352,
+      "address": "0x5300000000000000000000000000000000000004",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+      "extensions": {
+        "coingeckoId": "ethereum",
+        "acrossInfo": {
+          "1": {
+            "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+          },
+          "10": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "56": {
+            "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8"
+          },
+          "130": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "137": {
+            "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619"
+          },
+          "480": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "1868": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "8453": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "34443": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "42161": {
+            "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1"
+          },
+          "57073": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "59144": {
+            "address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f"
+          },
+          "81457": {
+            "address": "0x4300000000000000000000000000000000000004"
+          },
+          "7777777": {
+            "address": "0x4200000000000000000000000000000000000006"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 7777777,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+      "extensions": {
+        "coingeckoId": "ethereum",
+        "acrossInfo": {
+          "1": {
+            "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+          },
+          "10": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "56": {
+            "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8"
+          },
+          "130": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "137": {
+            "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619"
+          },
+          "480": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "1868": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "8453": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "34443": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "42161": {
+            "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1"
+          },
+          "57073": {
+            "address": "0x4200000000000000000000000000000000000006"
+          },
+          "59144": {
+            "address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f"
+          },
+          "81457": {
+            "address": "0x4300000000000000000000000000000000000004"
+          },
+          "534352": {
+            "address": "0x5300000000000000000000000000000000000004"
+          }
+        },
+        "noLiquidityOnChain": true
+      }
+    }
+  ]
+}
