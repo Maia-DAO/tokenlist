@@ -8,6 +8,16 @@
   },
   "tokens": [
     {
+    "chainId": 747,
+    "address": "0xd3bF53DAC106A0290B0483EcBC89d40FcC961f3e",
+    "name": "Wrapped FLOW",
+    "symbol": "WFLOW",
+    "decimals": 18,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/128x128/4558.png",
+    "isAcross": false,
+    "isOFT": false
+    },
+    {
       "chainId": 1,
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "name": "Wrapped Ether",
